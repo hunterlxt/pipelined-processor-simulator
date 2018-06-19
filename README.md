@@ -9,6 +9,8 @@ g++ MIPSsim.cpp -o MIPSsim
 
 # Files Note
 MIPSsim.cpp: Source code
+
 sample.txt: text file (MIPS) which be input as argument
 
 # Others
+![Alt text](https://github.com/hunterlxt/pipelined-processor-simulator/blob/master/res/Screenshot%20from%202018-06-19%2011-00-04.png)
